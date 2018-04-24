@@ -13,4 +13,4 @@ If you want to see a fork that is not on the list, please
 [place an issue](https://github.com/someone235/btc-forks-balance/issues/new),
 and I will add it ASAP.
 
-Donate BTC: 1F5n1fKsNU5JZGNnHyJRnbz1azRyHnut9S
+Donate BTC: 1MocACiWLM8bYn8pCrYjy6uHq4U3CkxLaa
